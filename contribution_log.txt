@@ -19,3 +19,4 @@ print(os.getcwd())
 2024-09-20T17:14:01 - import os
 print(os.getcwd())
 2024-09-20T13:01:03 - print('Hello, World!')
+2024-09-20T11:43:05 - with open('test.txt', 'w') as f: f.write('test')
