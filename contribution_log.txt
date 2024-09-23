@@ -22,3 +22,5 @@ print(os.getcwd())
 2024-09-20T11:43:05 - with open('test.txt', 'w') as f: f.write('test')
 2024-09-21T10:41:52 - with open('test.txt', 'w') as f: f.write('test')
 2024-09-21T12:40:26 - print('Hello, World!')
+2024-09-22T20:51:16 - import time
+time.sleep(1)
