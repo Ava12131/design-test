@@ -48,3 +48,4 @@ time.sleep(1)
 2024-10-03T15:19:46 - print('Hello, World!')
 2024-10-04T15:19:47 - for x in fruits: print(x)
 2024-10-04T20:43:28 - with open('test.txt', 'w') as f: f.write('test')
+2024-10-04T19:14:07 - x = lambda a : a + 10
