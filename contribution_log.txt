@@ -49,3 +49,5 @@ time.sleep(1)
 2024-10-04T15:19:47 - for x in fruits: print(x)
 2024-10-04T20:43:28 - with open('test.txt', 'w') as f: f.write('test')
 2024-10-04T19:14:07 - x = lambda a : a + 10
+2024-10-05T13:12:18 - import os
+print(os.getcwd())
