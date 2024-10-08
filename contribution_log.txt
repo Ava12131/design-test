@@ -57,3 +57,4 @@ print(os.getcwd())
 2024-10-07T16:57:37 - import time
 time.sleep(1)
 2024-10-08T12:39:15 - def add(a, b): return a + b
+2024-10-08T12:45:18 - for x in fruits: print(x)
