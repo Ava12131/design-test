@@ -62,3 +62,5 @@ time.sleep(1)
 2024-10-11T13:06:58 - for x in fruits: print(x)
 2024-10-13T11:13:16 - x = lambda a : a + 10
 2024-10-13T11:09:19 - class MyClass: pass
+2024-10-14T17:48:56 - import os
+print(os.getcwd())
