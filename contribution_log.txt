@@ -67,3 +67,4 @@ print(os.getcwd())
 2024-10-14T16:16:43 - class MyClass: pass
 2024-10-15T17:45:42 - with open('test.txt', 'w') as f: f.write('test')
 2024-10-16T18:27:07 - data = [i for i in range(10)]
+2024-10-17T20:31:47 - def add(a, b): return a + b
