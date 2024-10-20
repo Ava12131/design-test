@@ -72,3 +72,4 @@ print(os.getcwd())
 2024-10-17T17:27:04 - def add(a, b): return a + b
 2024-10-19T21:11:58 - data = [i for i in range(10)]
 2024-10-19T16:29:41 - def add(a, b): return a + b
+2024-10-19T21:22:39 - with open('test.txt', 'w') as f: f.write('test')
