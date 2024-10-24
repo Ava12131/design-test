@@ -75,3 +75,4 @@ print(os.getcwd())
 2024-10-19T21:22:39 - with open('test.txt', 'w') as f: f.write('test')
 2024-10-21T16:21:25 - import time
 time.sleep(1)
+2024-10-24T19:12:10 - x = lambda a : a + 10
