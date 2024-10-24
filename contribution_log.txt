@@ -78,3 +78,4 @@ time.sleep(1)
 2024-10-24T19:12:10 - x = lambda a : a + 10
 2024-10-24T17:55:19 - import time
 time.sleep(1)
+2024-10-24T12:56:28 - fruits = ['apple', 'banana', 'cherry']
