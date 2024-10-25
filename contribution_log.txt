@@ -79,3 +79,4 @@ time.sleep(1)
 2024-10-24T17:55:19 - import time
 time.sleep(1)
 2024-10-24T12:56:28 - fruits = ['apple', 'banana', 'cherry']
+2024-10-25T09:48:44 - for x in fruits: print(x)
