@@ -85,3 +85,4 @@ time.sleep(1)
 print(os.getcwd())
 2024-10-27T18:27:13 - class MyClass: pass
 2024-10-28T15:40:07 - with open('test.txt', 'w') as f: f.write('test')
+2024-10-28T19:59:54 - def add(a, b): return a + b
