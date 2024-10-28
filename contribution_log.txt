@@ -84,3 +84,4 @@ time.sleep(1)
 2024-10-25T11:23:48 - import os
 print(os.getcwd())
 2024-10-27T18:27:13 - class MyClass: pass
+2024-10-28T15:40:07 - with open('test.txt', 'w') as f: f.write('test')
