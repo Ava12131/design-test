@@ -87,3 +87,4 @@ print(os.getcwd())
 2024-10-28T15:40:07 - with open('test.txt', 'w') as f: f.write('test')
 2024-10-28T19:59:54 - def add(a, b): return a + b
 2024-10-29T20:10:06 - x = lambda a : a + 10
+2024-10-31T10:44:01 - class MyClass: pass
