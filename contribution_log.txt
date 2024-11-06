@@ -91,3 +91,5 @@ print(os.getcwd())
 2024-11-03T16:07:42 - print('Hello, World!')
 2024-11-04T11:01:42 - x = lambda a : a + 10
 2024-11-04T11:20:25 - x = lambda a : a + 10
+2024-11-06T17:28:22 - import time
+time.sleep(1)
