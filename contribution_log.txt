@@ -110,3 +110,5 @@ time.sleep(1)
 time.sleep(1)
 2024-11-13T21:52:57 - print('Hello, World!')
 2024-11-13T13:22:08 - fruits = ['apple', 'banana', 'cherry']
+2024-11-13T21:35:34 - import os
+print(os.getcwd())
