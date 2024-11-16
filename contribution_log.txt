@@ -118,3 +118,4 @@ print(os.getcwd())
 2024-11-15T09:30:20 - data = [i for i in range(10)]
 2024-11-16T12:25:16 - import os
 print(os.getcwd())
+2024-11-16T13:16:09 - def add(a, b): return a + b
