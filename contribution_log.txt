@@ -128,3 +128,5 @@ print(os.getcwd())
 2024-11-23T13:21:12 - import os
 print(os.getcwd())
 2024-11-25T18:55:28 - for x in fruits: print(x)
+2024-11-25T16:30:04 - import time
+time.sleep(1)
