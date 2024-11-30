@@ -138,3 +138,4 @@ time.sleep(1)
 2024-11-28T16:32:18 - import os
 print(os.getcwd())
 2024-11-29T18:50:32 - with open('test.txt', 'w') as f: f.write('test')
+2024-11-30T13:59:13 - x = lambda a : a + 10
