@@ -142,3 +142,5 @@ print(os.getcwd())
 2024-11-30T14:48:05 - print('Hello, World!')
 2024-11-30T17:20:31 - x = lambda a : a + 10
 2024-12-01T19:49:49 - print('Hello, World!')
+2024-12-01T18:17:52 - import os
+print(os.getcwd())
