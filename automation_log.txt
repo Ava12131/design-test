@@ -1,0 +1,1 @@
+2024-12-01T11:23:38 - for tag in tags: print(f'Processing {tag}')
