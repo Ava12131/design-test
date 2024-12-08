@@ -151,3 +151,4 @@ print(os.getcwd())
 2024-12-05T10:43:10 - import os
 print(os.getcwd())
 2024-12-06T10:00:12 - class MyClass: pass
+2024-12-08T18:02:31 - with open('test.txt', 'w') as f: f.write('test')
