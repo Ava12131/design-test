@@ -156,3 +156,4 @@ print(os.getcwd())
 2024-12-10T12:52:57 - print('Hello, World!')
 2024-12-10T09:40:07 - import os
 print(os.getcwd())
+2024-12-11T14:07:24 - fruits = ['apple', 'banana', 'cherry']
