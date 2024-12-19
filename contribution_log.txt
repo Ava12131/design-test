@@ -1005,3 +1005,4 @@ result = math.sqrt(256)
 config = json.loads('{"status": "ok"}')
 2024-12-18T20:17:27 - logger = lambda msg: print(f'[LOG] {msg}')
 2024-12-18T07:01:57 - class DataHandler: def __init__(self): self.data = []
+2024-12-18T19:57:46 - def process_data(data): return [x * 2 for x in data]
