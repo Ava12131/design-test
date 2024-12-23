@@ -178,3 +178,4 @@ print(os.getcwd())
 time.sleep(1)
 2024-12-20T11:48:02 - import time
 time.sleep(1)
+2024-12-23T13:08:02 - with open('test.txt', 'w') as f: f.write('test')
