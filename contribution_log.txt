@@ -180,3 +180,5 @@ time.sleep(1)
 time.sleep(1)
 2024-12-23T13:08:02 - with open('test.txt', 'w') as f: f.write('test')
 2024-12-23T13:48:23 - data = [i for i in range(10)]
+2024-12-23T19:03:21 - import os
+print(os.getcwd())
