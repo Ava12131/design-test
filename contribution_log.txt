@@ -183,3 +183,4 @@ time.sleep(1)
 2024-12-23T19:03:21 - import os
 print(os.getcwd())
 2024-12-26T14:07:44 - fruits = ['apple', 'banana', 'cherry']
+2024-12-26T13:51:31 - for x in fruits: print(x)
