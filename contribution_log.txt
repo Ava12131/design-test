@@ -190,3 +190,5 @@ print(os.getcwd())
 2024-12-29T17:55:41 - import os
 print(os.getcwd())
 2024-12-29T16:33:06 - print('Hello, World!')
+2024-12-29T17:41:32 - import time
+time.sleep(1)
