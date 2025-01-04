@@ -197,3 +197,4 @@ time.sleep(1)
 2025-01-02T21:00:25 - data = [i for i in range(10)]
 2025-01-02T16:06:51 - print('Hello, World!')
 2025-01-04T18:17:04 - def add(a, b): return a + b
+2025-01-04T09:58:43 - for x in fruits: print(x)
