@@ -217,3 +217,5 @@ print(os.getcwd())
 2025-01-14T20:58:41 - fruits = ['apple', 'banana', 'cherry']
 2025-01-15T13:55:56 - class MyClass: pass
 2025-01-16T13:25:40 - fruits = ['apple', 'banana', 'cherry']
+2025-01-16T20:10:38 - import os
+print(os.getcwd())
