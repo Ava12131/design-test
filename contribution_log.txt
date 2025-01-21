@@ -224,3 +224,4 @@ print(os.getcwd())
 2025-01-18T19:41:01 - import time
 time.sleep(1)
 2025-01-20T12:09:35 - fruits = ['apple', 'banana', 'cherry']
+2025-01-20T19:52:01 - def add(a, b): return a + b
