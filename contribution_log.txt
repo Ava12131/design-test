@@ -230,3 +230,4 @@ time.sleep(1)
 2025-01-21T17:50:03 - for x in fruits: print(x)
 2025-01-24T11:41:19 - class MyClass: pass
 2025-01-24T11:08:41 - class MyClass: pass
+2025-01-24T17:30:35 - x = lambda a : a + 10
