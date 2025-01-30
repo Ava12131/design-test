@@ -235,3 +235,5 @@ time.sleep(1)
 2025-01-25T20:18:59 - def add(a, b): return a + b
 2025-01-25T18:38:54 - data = [i for i in range(10)]
 2025-01-29T19:30:29 - class MyClass: pass
+2025-01-29T20:42:04 - import os
+print(os.getcwd())
