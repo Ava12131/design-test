@@ -248,3 +248,5 @@ print(os.getcwd())
 2025-02-04T18:29:16 - data = [i for i in range(10)]
 2025-02-05T15:29:06 - for x in fruits: print(x)
 2025-02-05T14:41:19 - with open('test.txt', 'w') as f: f.write('test')
+2025-02-05T18:50:58 - import os
+print(os.getcwd())
