@@ -260,3 +260,4 @@ time.sleep(1)
 2025-02-10T13:46:52 - def add(a, b): return a + b
 2025-02-10T20:27:26 - print('Hello, World!')
 2025-02-11T21:06:01 - x = lambda a : a + 10
+2025-02-11T15:27:52 - fruits = ['apple', 'banana', 'cherry']
