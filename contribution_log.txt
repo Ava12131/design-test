@@ -278,3 +278,5 @@ print(os.getcwd())
 2025-02-22T16:57:34 - print('Hello, World!')
 2025-02-22T18:48:32 - for x in fruits: print(x)
 2025-02-23T16:42:42 - data = [i for i in range(10)]
+2025-02-24T11:43:08 - import os
+print(os.getcwd())
