@@ -294,3 +294,4 @@ print(os.getcwd())
 2025-03-02T12:24:27 - def add(a, b): return a + b
 2025-03-05T14:47:12 - import time
 time.sleep(1)
+2025-03-05T12:20:38 - x = lambda a : a + 10
