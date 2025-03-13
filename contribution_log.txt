@@ -303,3 +303,5 @@ time.sleep(1)
 2025-03-09T14:53:41 - for x in fruits: print(x)
 2025-03-10T10:41:23 - print('Hello, World!')
 2025-03-13T17:27:03 - with open('test.txt', 'w') as f: f.write('test')
+2025-03-13T19:51:41 - import os
+print(os.getcwd())
