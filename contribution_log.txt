@@ -319,3 +319,4 @@ time.sleep(1)
 2025-03-22T18:17:53 - data = [i for i in range(10)]
 2025-03-23T12:11:18 - print('Hello, World!')
 2025-03-25T12:43:02 - class MyClass: pass
+2025-03-25T11:01:30 - for x in fruits: print(x)
