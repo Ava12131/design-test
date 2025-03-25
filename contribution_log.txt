@@ -320,3 +320,4 @@ time.sleep(1)
 2025-03-23T12:11:18 - print('Hello, World!')
 2025-03-25T12:43:02 - class MyClass: pass
 2025-03-25T11:01:30 - for x in fruits: print(x)
+2025-03-25T14:39:15 - def add(a, b): return a + b
