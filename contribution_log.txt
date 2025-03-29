@@ -328,3 +328,4 @@ time.sleep(1)
 2025-03-28T18:04:25 - import time
 time.sleep(1)
 2025-03-28T20:58:29 - with open('test.txt', 'w') as f: f.write('test')
+2025-03-29T16:49:22 - for x in fruits: print(x)
