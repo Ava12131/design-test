@@ -344,3 +344,4 @@ print(os.getcwd())
 2025-04-05T11:34:51 - print('Hello, World!')
 2025-04-07T19:31:24 - import time
 time.sleep(1)
+2025-04-07T14:01:35 - x = lambda a : a + 10
