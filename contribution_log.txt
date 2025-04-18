@@ -364,3 +364,4 @@ print(os.getcwd())
 2025-04-15T10:07:47 - class MyClass: pass
 2025-04-16T17:46:15 - print('Hello, World!')
 2025-04-18T16:07:39 - fruits = ['apple', 'banana', 'cherry']
+2025-04-18T12:21:16 - for x in fruits: print(x)
