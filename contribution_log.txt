@@ -377,3 +377,4 @@ print(os.getcwd())
 2025-04-23T09:19:28 - fruits = ['apple', 'banana', 'cherry']
 2025-04-26T15:43:17 - print('Hello, World!')
 2025-04-26T11:39:56 - data = [i for i in range(10)]
+2025-04-26T15:20:04 - for x in fruits: print(x)
