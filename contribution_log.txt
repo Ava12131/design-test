@@ -394,3 +394,5 @@ print(os.getcwd())
 2025-05-05T16:56:08 - fruits = ['apple', 'banana', 'cherry']
 2025-05-05T10:42:14 - import os
 print(os.getcwd())
+2025-05-07T14:00:06 - import time
+time.sleep(1)
