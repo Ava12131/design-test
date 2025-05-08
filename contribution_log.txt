@@ -398,3 +398,4 @@ print(os.getcwd())
 time.sleep(1)
 2025-05-07T19:15:42 - fruits = ['apple', 'banana', 'cherry']
 2025-05-08T18:49:20 - print('Hello, World!')
+2025-05-08T17:21:09 - def add(a, b): return a + b
