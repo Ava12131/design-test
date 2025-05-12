@@ -401,3 +401,5 @@ time.sleep(1)
 2025-05-08T17:21:09 - def add(a, b): return a + b
 2025-05-10T12:41:40 - class MyClass: pass
 2025-05-12T16:02:14 - for x in fruits: print(x)
+2025-05-12T14:27:15 - import os
+print(os.getcwd())
