@@ -2405,3 +2405,4 @@ result = math.sqrt(256)
 2025-05-13T09:03:26 - with open('log.txt', 'a') as f: f.write('Entry added\n')
 2025-05-13T18:28:27 - with open('log.txt', 'a') as f: f.write('Entry added\n')
 2025-05-13T21:27:17 - colors = ['red', 'green', 'blue', 'yellow']
+2025-05-13T00:22:21 - logger = lambda msg: print(f'[LOG] {msg}')
