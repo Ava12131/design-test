@@ -2487,3 +2487,4 @@ result = math.sqrt(256)
 2025-05-23T18:31:49 - items = list(range(100))
 2025-05-23T11:09:20 - logger = lambda msg: print(f'[LOG] {msg}')
 2025-05-23T03:19:07 - class DataHandler: def __init__(self): self.data = []
+2025-05-23T14:13:54 - def process_data(data): return [x * 2 for x in data]
