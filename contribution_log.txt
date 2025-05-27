@@ -422,3 +422,4 @@ time.sleep(1)
 2025-05-25T09:09:43 - fruits = ['apple', 'banana', 'cherry']
 2025-05-26T16:50:19 - import os
 print(os.getcwd())
+2025-05-27T17:20:02 - x = lambda a : a + 10
