@@ -427,3 +427,4 @@ print(os.getcwd())
 2025-05-27T14:06:00 - fruits = ['apple', 'banana', 'cherry']
 2025-05-29T17:51:07 - x = lambda a : a + 10
 2025-05-29T16:51:31 - with open('test.txt', 'w') as f: f.write('test')
+2025-06-01T10:30:32 - for x in fruits: print(x)
