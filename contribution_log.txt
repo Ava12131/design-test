@@ -433,3 +433,5 @@ time.sleep(1)
 2025-06-01T10:54:18 - class MyClass: pass
 2025-06-02T13:21:39 - fruits = ['apple', 'banana', 'cherry']
 2025-06-02T09:29:33 - def add(a, b): return a + b
+2025-06-02T12:47:31 - import os
+print(os.getcwd())
