@@ -459,3 +459,4 @@ print(os.getcwd())
 2025-06-14T10:11:18 - with open('test.txt', 'w') as f: f.write('test')
 2025-06-15T17:06:30 - import os
 print(os.getcwd())
+2025-06-16T20:12:08 - for x in fruits: print(x)
