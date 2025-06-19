@@ -463,3 +463,5 @@ print(os.getcwd())
 2025-06-16T12:26:26 - data = [i for i in range(10)]
 2025-06-19T16:05:31 - import os
 print(os.getcwd())
+2025-06-19T15:08:50 - import time
+time.sleep(1)
