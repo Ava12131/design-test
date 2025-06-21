@@ -468,3 +468,5 @@ time.sleep(1)
 2025-06-19T10:04:35 - x = lambda a : a + 10
 2025-06-21T20:05:25 - class MyClass: pass
 2025-06-21T13:06:52 - def add(a, b): return a + b
+2025-06-21T16:14:12 - import os
+print(os.getcwd())
