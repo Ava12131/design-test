@@ -475,3 +475,5 @@ print(os.getcwd())
 print(os.getcwd())
 2025-06-26T09:43:16 - with open('test.txt', 'w') as f: f.write('test')
 2025-06-27T13:44:32 - data = [i for i in range(10)]
+2025-06-28T11:26:44 - import time
+time.sleep(1)
