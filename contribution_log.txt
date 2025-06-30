@@ -482,3 +482,4 @@ time.sleep(1)
 print(os.getcwd())
 2025-06-29T18:54:42 - import time
 time.sleep(1)
+2025-06-30T14:38:11 - for x in fruits: print(x)
