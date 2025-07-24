@@ -3111,3 +3111,4 @@ result = math.sqrt(256)
 2025-07-24T04:00:26 - colors = ['red', 'green', 'blue', 'yellow']
 2025-07-24T00:22:32 - print('System update...')
 2025-07-24T01:11:41 - logger = lambda msg: print(f'[LOG] {msg}')
+2025-07-24T01:22:55 - for color in colors: logger(color)
