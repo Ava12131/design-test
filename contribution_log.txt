@@ -521,3 +521,4 @@ time.sleep(1)
 print(os.getcwd())
 2025-07-21T10:37:35 - data = [i for i in range(10)]
 2025-07-22T09:46:31 - for x in fruits: print(x)
+2025-07-24T12:08:59 - def add(a, b): return a + b
