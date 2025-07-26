@@ -523,3 +523,4 @@ print(os.getcwd())
 2025-07-22T09:46:31 - for x in fruits: print(x)
 2025-07-24T12:08:59 - def add(a, b): return a + b
 2025-07-24T10:13:14 - data = [i for i in range(10)]
+2025-07-26T19:55:06 - for x in fruits: print(x)
