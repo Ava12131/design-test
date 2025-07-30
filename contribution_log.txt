@@ -529,3 +529,4 @@ print(os.getcwd())
 2025-07-28T21:04:17 - x = lambda a : a + 10
 2025-07-29T14:15:45 - import os
 print(os.getcwd())
+2025-07-30T10:15:54 - with open('test.txt', 'w') as f: f.write('test')
