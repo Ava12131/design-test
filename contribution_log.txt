@@ -534,3 +534,4 @@ print(os.getcwd())
 2025-08-01T21:12:16 - def add(a, b): return a + b
 2025-08-01T13:02:42 - import os
 print(os.getcwd())
+2025-08-01T18:52:03 - x = lambda a : a + 10
