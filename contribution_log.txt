@@ -546,3 +546,4 @@ time.sleep(1)
 print(os.getcwd())
 2025-08-07T19:15:06 - print('Hello, World!')
 2025-08-08T16:31:17 - data = [i for i in range(10)]
+2025-08-08T17:25:31 - x = lambda a : a + 10
