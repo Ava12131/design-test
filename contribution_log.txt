@@ -3251,3 +3251,4 @@ result = math.sqrt(256)
 2025-08-08T01:18:05 - colors = ['red', 'green', 'blue', 'yellow']
 2025-08-08T21:09:07 - colors = ['red', 'green', 'blue', 'yellow']
 2025-08-08T02:49:54 - def process_data(data): return [x * 2 for x in data]
+2025-08-08T09:45:59 - for color in colors: logger(color)
