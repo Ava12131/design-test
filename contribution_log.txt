@@ -556,3 +556,5 @@ time.sleep(1)
 2025-08-11T14:22:58 - data = [i for i in range(10)]
 2025-08-13T18:49:47 - data = [i for i in range(10)]
 2025-08-13T14:43:39 - class MyClass: pass
+2025-08-13T15:10:17 - import os
+print(os.getcwd())
