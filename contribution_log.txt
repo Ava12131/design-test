@@ -559,3 +559,4 @@ time.sleep(1)
 2025-08-13T15:10:17 - import os
 print(os.getcwd())
 2025-08-14T19:10:09 - def add(a, b): return a + b
+2025-08-14T12:59:22 - with open('test.txt', 'w') as f: f.write('test')
