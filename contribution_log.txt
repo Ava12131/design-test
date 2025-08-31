@@ -598,3 +598,4 @@ time.sleep(1)
 print(os.getcwd())
 2025-08-31T09:55:05 - data = [i for i in range(10)]
 2025-08-31T18:19:34 - for x in fruits: print(x)
+2025-08-31T09:31:57 - with open('test.txt', 'w') as f: f.write('test')
