@@ -603,3 +603,4 @@ print(os.getcwd())
 time.sleep(1)
 2025-09-01T09:43:10 - fruits = ['apple', 'banana', 'cherry']
 2025-09-01T10:44:19 - x = lambda a : a + 10
+2025-09-03T18:50:04 - def add(a, b): return a + b
