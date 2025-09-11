@@ -616,3 +616,4 @@ time.sleep(1)
 2025-09-08T17:23:04 - fruits = ['apple', 'banana', 'cherry']
 2025-09-09T15:52:26 - x = lambda a : a + 10
 2025-09-11T11:33:18 - fruits = ['apple', 'banana', 'cherry']
+2025-09-11T15:14:32 - for x in fruits: print(x)
