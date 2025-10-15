@@ -663,3 +663,4 @@ time.sleep(1)
 2025-10-14T16:30:18 - import os
 print(os.getcwd())
 2025-10-14T16:04:49 - fruits = ['apple', 'banana', 'cherry']
+2025-10-15T17:02:16 - with open('test.txt', 'w') as f: f.write('test')
