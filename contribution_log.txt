@@ -676,3 +676,4 @@ print(os.getcwd())
 2025-10-26T18:13:12 - with open('test.txt', 'w') as f: f.write('test')
 2025-10-27T21:59:58 - data = [i for i in range(10)]
 2025-10-27T16:02:31 - x = lambda a : a + 10
+2025-10-27T14:54:40 - for x in fruits: print(x)
