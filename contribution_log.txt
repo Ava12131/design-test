@@ -678,3 +678,4 @@ print(os.getcwd())
 2025-10-27T16:02:31 - x = lambda a : a + 10
 2025-10-27T14:54:40 - for x in fruits: print(x)
 2025-10-28T09:45:49 - def add(a, b): return a + b
+2025-10-28T14:00:35 - with open('test.txt', 'w') as f: f.write('test')
