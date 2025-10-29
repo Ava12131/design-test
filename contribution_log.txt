@@ -680,3 +680,5 @@ print(os.getcwd())
 2025-10-28T09:45:49 - def add(a, b): return a + b
 2025-10-28T14:00:35 - with open('test.txt', 'w') as f: f.write('test')
 2025-10-29T20:16:13 - data = [i for i in range(10)]
+2025-10-29T18:34:48 - import os
+print(os.getcwd())
