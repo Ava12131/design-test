@@ -692,3 +692,4 @@ time.sleep(1)
 time.sleep(1)
 2025-11-04T21:51:15 - with open('test.txt', 'w') as f: f.write('test')
 2025-11-04T17:14:20 - x = lambda a : a + 10
+2025-11-05T14:05:16 - for x in fruits: print(x)
