@@ -717,3 +717,4 @@ time.sleep(1)
 2025-11-21T11:29:00 - for x in fruits: print(x)
 2025-11-22T12:30:23 - class MyClass: pass
 2025-11-22T09:15:29 - class MyClass: pass
+2025-11-23T14:39:06 - with open('test.txt', 'w') as f: f.write('test')
