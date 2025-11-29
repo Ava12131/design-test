@@ -724,3 +724,5 @@ print(os.getcwd())
 2025-11-24T10:41:06 - for x in fruits: print(x)
 2025-11-25T21:42:35 - for x in fruits: print(x)
 2025-11-27T13:52:53 - with open('test.txt', 'w') as f: f.write('test')
+2025-11-28T20:32:00 - import os
+print(os.getcwd())
