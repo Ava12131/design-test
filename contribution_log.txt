@@ -729,3 +729,4 @@ print(os.getcwd())
 2025-12-01T19:59:46 - import os
 print(os.getcwd())
 2025-12-02T09:25:19 - for x in fruits: print(x)
+2025-12-02T15:08:15 - def add(a, b): return a + b
