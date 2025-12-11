@@ -749,3 +749,5 @@ time.sleep(1)
 2025-12-09T16:53:40 - import time
 time.sleep(1)
 2025-12-11T13:48:50 - with open('test.txt', 'w') as f: f.write('test')
+2025-12-11T16:08:51 - import os
+print(os.getcwd())
