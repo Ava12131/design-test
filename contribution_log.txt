@@ -4499,3 +4499,4 @@ result = math.sqrt(256)
 2025-12-17T12:09:54 - with open('log.txt', 'a') as f: f.write('Entry added\n')
 2025-12-17T17:37:17 - with open('log.txt', 'a') as f: f.write('Entry added\n')
 2025-12-17T16:43:25 - def process_data(data): return [x * 2 for x in data]
+2025-12-17T14:41:16 - logger = lambda msg: print(f'[LOG] {msg}')
