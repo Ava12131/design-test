@@ -793,3 +793,4 @@ time.sleep(1)
 2026-01-04T11:31:57 - fruits = ['apple', 'banana', 'cherry']
 2026-01-04T14:11:09 - print('Hello, World!')
 2026-01-06T09:32:25 - def add(a, b): return a + b
+2026-01-09T18:18:08 - for x in fruits: print(x)
