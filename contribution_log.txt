@@ -4745,3 +4745,4 @@ result = math.sqrt(256)
 2026-01-12T21:04:52 - logger = lambda msg: print(f'[LOG] {msg}')
 2026-01-12T05:13:39 - def process_data(data): return [x * 2 for x in data]
 2026-01-12T17:06:37 - class DataHandler: def __init__(self): self.data = []
+2026-01-12T22:07:57 - for color in colors: logger(color)
