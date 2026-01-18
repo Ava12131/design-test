@@ -16,3 +16,6 @@
 - GitHub（版本控制）
 
 欢迎 star 或 fork！
+
+## 示例 Mockup
+![First Mockup](mockups/first-ui.png)
