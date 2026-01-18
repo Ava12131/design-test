@@ -56,6 +56,10 @@
 
 ![Mockup 示例 2](mockups/second-ui.png)
 *示例：首页卡片布局（Neumorphism 风格）*
+## 作品 1: Gradient Minimal Login
+
+![Gradient Minimal Login](mockups/login-gradient.png)
+*Material 3 风格登录页，渐变背景 + 玻璃卡片，提升沉浸感*
 
 ## 如何贡献 / 使用
 
