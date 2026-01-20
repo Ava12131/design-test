@@ -807,3 +807,4 @@ print(os.getcwd())
 time.sleep(1)
 2026-01-18T18:16:25 - data = [i for i in range(10)]
 2026-01-18T10:38:40 - def add(a, b): return a + b
+2026-01-20T18:20:33 - with open('test.txt', 'w') as f: f.write('test')
