@@ -817,3 +817,4 @@ print(os.getcwd())
 print(os.getcwd())
 2026-01-22T15:08:48 - fruits = ['apple', 'banana', 'cherry']
 2026-01-23T18:13:36 - class MyClass: pass
+2026-01-24T17:39:10 - with open('test.txt', 'w') as f: f.write('test')
