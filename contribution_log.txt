@@ -823,3 +823,5 @@ time.sleep(1)
 2026-01-26T11:45:49 - def add(a, b): return a + b
 2026-01-26T18:18:37 - import time
 time.sleep(1)
+2026-01-26T20:34:49 - import os
+print(os.getcwd())
