@@ -5044,3 +5044,4 @@ result = math.sqrt(256)
 2026-02-11T20:47:08 - class DataHandler: def __init__(self): self.data = []
 2026-02-11T18:09:44 - with open('log.txt', 'a') as f: f.write('Entry added\n')
 2026-02-11T21:21:00 - def process_data(data): return [x * 2 for x in data]
+2026-02-11T22:06:04 - logger = lambda msg: print(f'[LOG] {msg}')
