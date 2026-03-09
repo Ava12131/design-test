@@ -1,68 +1,62 @@
-# 设计测试仓库
+# 设计测试仓库 (Design Test Repository)
 
-一个个人 UI/UX 设计练习与原型实验仓库。
-
-记录 Figma / Adobe XD 创意、界面迭代、视觉探索与交互测试。
-
-**仅供学习与个人练习，非商业项目。**
+一个个人 UI/UX 设计练习与原型实验仓库。记录从视觉探索到代码实现的完整过程。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137.svg?style=flat&logo=Adobe%20XD&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-## 项目目标
+## 🚀 项目目标
 
-- 练习主流设计系统：Material 3、Fluent、Neumorphism、Glassmorphism 等
-- 测试配色、排版、交互反馈
-- 记录设计决策与迭代过程
-- 积累个人设计 portfolio
+- **练习主流设计系统**：Material 3、Fluent、Neumorphism、Glassmorphism 等。
+- **从设计到代码**：将 Figma 视觉稿转化为高质量的 HTML/CSS 代码。
+- **测试交互反馈**：探索微交互与动画效果。
+- **积累个人作品集**：展示设计思维与技术实现能力。
 
-## 当前进度（2026 年更新）
+---
 
-- **2026-01-18**：初始化仓库 + 详细 README
-- **下一步（进行中）**：上传首批 mockup 截图 & Figma 原型链接
-- **短期计划**（本月内）：
-  - 完成 3–5 页移动端/网页端原型（登录 → 首页 → 详情页）
-  - 对比 3 种配色方案（深色/浅色/渐变）
-  - 记录反馈与改进日志
+## 🎨 作品展示
 
-## 工具栈
-
-- 设计：Figma、Adobe XD
-- 配色：Coolors、Huemint
-- 字体：Fontjoy、Google Fonts
-- 版本控制：GitHub
-- 导出：PNG / SVG / PDF / HTML+CSS（代码原型）
-
-## 作品展示
-
-### 作品 1: Gradient Minimal Login (Material 3 风格)
-
+### 1. Gradient Minimal Login (Material 3 风格)
 渐变背景 + 玻璃态卡片 + 微交互 hover 效果，提升沉浸感。
 
-<!-- 这里放截图 -->
 ![Gradient Minimal Login Mockup](screenshots/gradient-login.png)
-<!-- 或 Figma 链接 -->
-[Figma 原型链接（点击查看可交互版本）](https://www.figma.com/file/xxxxxx)  <!-- 替换成你的真实链接 -->
 
-**设计决策记录**：
-- 主色：#6366F1 → #A78BFA 渐变
-- 卡片：backdrop-filter: blur(16px)
-- 动画：0.3s ease-in-out scale + opacity
+- **设计决策**：主色采用 #6366F1 → #A78BFA 渐变，卡片使用 `backdrop-filter: blur(16px)`。
+- **代码实现**：[查看代码](./designs/01-gradient-login/) | [详细说明](./designs/01-gradient-login/README.md)
 
-（更多细节见 `/designs/01-gradient-login/readme.md`）
+### 2. Neumorphism Card Dashboard (新拟物化风格)
+通过精确的阴影与高光处理，营造出柔和、具有 3D 质感的“软 UI”界面。
 
-### 作品 2: Neumorphism Card Dashboard (占位)
+![Neumorphism Dashboard Mockup](screenshots/neumorphism-dashboard.png)
 
-待上传...
+- **设计决策**：背景色 #E0E5EC，通过双重阴影（浅色高光与深色阴影）实现挤压感。
+- **代码实现**：[查看代码](./designs/02-neumorphism-dashboard/) | [详细说明](./designs/02-neumorphism-dashboard/README.md)
 
-## 如何使用 / 贡献
+---
+
+## 📅 更新日志
+
+- **2026-03-09**：
+  - 发布 **Gradient Minimal Login** (HTML/CSS 实现)
+  - 发布 **Neumorphism Card Dashboard** (HTML/CSS 实现)
+  - 完善仓库目录结构与文档说明
+- **2026-01-18**：初始化仓库
+
+## 🛠️ 工具栈
+
+- **设计**：Figma, Adobe XD
+- **前端**：HTML5, CSS3 (Flexbox/Grid), Google Fonts
+- **版本控制**：GitHub
+
+## 🤝 如何使用 / 贡献
 
 1. Fork 本仓库
-2. Clone 到本地：`git clone https://github.com/你的用户名/design-test.git`
+2. Clone 到本地：`git clone https://github.com/Ava12131/design-test.git`
 3. 创建新分支实验你的想法
 4. PR 回来分享你的设计 / 代码 / 建议！
 
-欢迎 Issues 讨论设计灵感、反馈 bug 或提改进意见。
+---
 
 **最后**：这是一个公开的个人练习本，任何 star / fork 都是对我最大的鼓励～
