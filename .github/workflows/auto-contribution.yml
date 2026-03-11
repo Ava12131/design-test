@@ -1,0 +1,33 @@
+name: Daily Auto Contribution
+
+on:
+  schedule:
+    # 每天 UTC 时间 00:00 (北京时间 08:00) 运行
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run auto-commit script
+        run: python scripts/auto_commit.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git commit -m "chore: daily auto-contribution update [skip ci]" || echo "No changes to commit"
+          git push
