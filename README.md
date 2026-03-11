@@ -6,6 +6,7 @@
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Version](https://img.shields.io/badge/version-1.1.0-blue.svg)
 
 ## 🚀 项目目标
 
@@ -38,17 +39,21 @@
 
 ## 📅 更新日志
 
-- **2026-03-09**：
-  - 发布 **Gradient Minimal Login** (HTML/CSS 实现)
-  - 发布 **Neumorphism Card Dashboard** (HTML/CSS 实现)
-  - 完善仓库目录结构与文档说明
-- **2026-01-18**：初始化仓库
+详细更新历史请参阅 [CHANGELOG.md](./CHANGELOG.md)。
+
+- **v1.1.0 (2026-03-12)**: 
+  - 自动化贡献系统集成。
+  - 完善项目文档与版本管理。
+- **v1.0.0 (2026-03-09)**: 
+  - 发布 **Gradient Minimal Login** 和 **Neumorphism Card Dashboard**。
+  - 初始版本发布。
 
 ## 🛠️ 工具栈
 
 - **设计**：Figma, Adobe XD
 - **前端**：HTML5, CSS3 (Flexbox/Grid), Google Fonts
 - **版本控制**：GitHub
+- **自动化**：Manus AI Automation
 
 ## 🤝 如何使用 / 贡献
 
