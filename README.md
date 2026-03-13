@@ -6,7 +6,7 @@
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Version](https://img.shields.io/badge/version-1.1.0-blue.svg)
+![Version](https://img.shields.io/badge/version-1.2.0-blue.svg)
 
 ## 🚀 项目目标
 
@@ -19,13 +19,13 @@
 
 ## 🎨 作品展示
 
-### 1. Gradient Minimal Login (Material 3 风格)
-渐变背景 + 玻璃态卡片 + 微交互 hover 效果，提升沉浸感。
+### 1. Glassmorphism Music Player (玻璃态风格)
+基于磨砂玻璃质感的音乐播放器，结合霓虹色彩与强模糊背景，营造未来感。
 
-![Gradient Minimal Login Mockup](screenshots/gradient-login.png)
+![Glassmorphism Player Mockup](screenshots/glassmorphism-player.png)
 
-- **设计决策**：主色采用 #6366F1 → #A78BFA 渐变，卡片使用 `backdrop-filter: blur(16px)`。
-- **代码实现**：[查看代码](./designs/01-gradient-login/) | [详细说明](./designs/01-gradient-login/README.md)
+- **设计决策**：深色模式背景，主色 #FF2D55，使用 `backdrop-filter: blur(20px)` 实现通透感。
+- **代码实现**：[查看代码](./designs/03-glassmorphism-player/) | [详细说明](./designs/03-glassmorphism-player/README.md)
 
 ### 2. Neumorphism Card Dashboard (新拟物化风格)
 通过精确的阴影与高光处理，营造出柔和、具有 3D 质感的“软 UI”界面。
@@ -35,12 +35,23 @@
 - **设计决策**：背景色 #E0E5EC，通过双重阴影（浅色高光与深色阴影）实现挤压感。
 - **代码实现**：[查看代码](./designs/02-neumorphism-dashboard/) | [详细说明](./designs/02-neumorphism-dashboard/README.md)
 
+### 3. Gradient Minimal Login (Material 3 风格)
+渐变背景 + 玻璃态卡片 + 微交互 hover 效果，提升沉浸感。
+
+![Gradient Minimal Login Mockup](screenshots/gradient-login.png)
+
+- **设计决策**：主色采用 #6366F1 → #A78BFA 渐变，卡片使用 `backdrop-filter: blur(16px)`。
+- **代码实现**：[查看代码](./designs/01-gradient-login/) | [详细说明](./designs/01-gradient-login/README.md)
+
 ---
 
 ## 📅 更新日志
 
 详细更新历史请参阅 [CHANGELOG.md](./CHANGELOG.md)。
 
+- **v1.2.0 (2026-03-14)**:
+  - 发布 **Glassmorphism Music Player** (HTML/CSS 实现)。
+  - 优化主 README 排版，将最新作品置顶。
 - **v1.1.0 (2026-03-12)**: 
   - 自动化贡献系统集成。
   - 完善项目文档与版本管理。
