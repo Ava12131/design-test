@@ -1,5 +1,7 @@
 # 设计测试仓库 (Design Test Repository)
 
+**本仓库用于自动化贡献。**
+
 一个个人 UI/UX 设计练习与原型实验仓库。记录从视觉探索到代码实现的完整过程。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
